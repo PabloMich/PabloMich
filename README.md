@@ -3,3 +3,11 @@
     <h1 align="center">Hi👋, I'm Pablo Mich</h1>
     <h3 align="center">Passionate and fanatic about technology.</h3>
 </div>
+
+### 👨‍💻 About Me :
+
+    📫 How to reach me pabloemich@gmail.com
+
+    🌱 I’m currently learning React.js and Blockchain,
+
+    🌐 Website
