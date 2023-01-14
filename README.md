@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About Me :
 
-    📫 How to reach me pabloemich@gmail.com
+   - 📫 How to reach me pabloemich@gmail.com
 
-    🌱 I’m currently learning React.js and Blockchain,
+   - 🌱 I’m currently learning React.js and Blockchain,
 
-    🌐 Website
+   - 🌐 Website
