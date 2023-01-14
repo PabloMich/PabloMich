@@ -4,6 +4,8 @@
     <h3 align="center">Passionate and fanatic about technology.</h3>
 </div>
 
+---
+
 ### 👨‍💻 About Me :
 
     📫 How to reach me pabloemich@gmail.com
