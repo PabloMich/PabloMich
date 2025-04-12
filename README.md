@@ -10,7 +10,5 @@
 
    - 📫 How to reach me pabloemich@gmail.com
 
-   - 🌱 I’m currently learning React.js and Blockchain,
-
    - 🌐 Website
 
