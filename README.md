@@ -4,16 +4,6 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<p aling="center">
-  ![PabloMich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMich&theme=dark&show_icons=true&hide_border=true&layout=compact)
-</p>
-
-<p align="center">
-  ![PabloMich's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMich&theme=dark&show_icons=true&hide_border=true&layout=compact)
-</p>
-
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMich&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="PabloMich's Top Languages" />
 </div>
