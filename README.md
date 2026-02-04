@@ -5,10 +5,13 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMich&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="PabloMich's Top Languages" />
+<!--- trophy (start) -->
+<div align=left>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=PabloMich&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </div>
-
+<!--- trophy (start) -->
 
 
 
