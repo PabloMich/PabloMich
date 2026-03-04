@@ -14,7 +14,7 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
+<!--- stats (end) --->
 
 
 
